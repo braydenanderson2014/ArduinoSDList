@@ -2,8 +2,8 @@
 
 
 <!-- HEALTH_BADGES_START -->
-[![Health: Unstable](https://img.shields.io/badge/Health-Unstable-f59e0b?style=flat-square)](../../reports/library-health-report.md)
-[![Testing: Unmanaged](https://img.shields.io/badge/Testing-Unmanaged-9e9e9e?style=flat-square)](../../reports/library-health-report.md)
+[![Health: Unstable](https://img.shields.io/badge/Health-Unstable-f59e0b?style=flat-square)](https://github.com/braydenanderson2014/C-Arduino-Libraries/blob/main/reports/library-health-report.md)
+[![Testing: Unmanaged](https://img.shields.io/badge/Testing-Unmanaged-9e9e9e?style=flat-square)](https://github.com/braydenanderson2014/C-Arduino-Libraries/blob/main/reports/library-health-report.md)
 <!-- HEALTH_BADGES_END -->
 
 `SDList` is a paged, batch-buffered list for Arduino that offloads element storage
